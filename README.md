@@ -1,4 +1,5 @@
 # PROJECT NAME: COVID19-GLOBAL-CASE-ANALYSIS-DASHBOARD
+----
 # PROJECT DESCRIPTION:
 This analysis is part of the 30DaysOfLearning program under the data analysis path to help me discover the impact of COVID-19 globally using Microsoft excel. The data used is gotten from John Hopkins University data.
 
