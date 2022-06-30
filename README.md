@@ -17,7 +17,7 @@ This analysis is part of the 30DaysOfLearning program under the data analysis pa
 ----
 # DATA TRANSFORMATION
 Powerquery was used for cleaning and the transformation of the data set before analysis.
-Pivot tables wer used to determine thsummary of the analysis from the objectives of the project.
+Pivot tables were used to determine the summary of the analysis from the objectives of the project.
 After which the results of the Pivot tables were used to insert charts and build the dasboard.
 
 # FINDINGS AND RECOMMENDATIONS
