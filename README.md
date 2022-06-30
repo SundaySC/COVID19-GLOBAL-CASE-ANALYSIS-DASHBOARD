@@ -20,6 +20,7 @@ Powerquery was used for cleaning and the transformation of the data set before a
 Pivot tables were used to determine the summary of the analysis from the objectives of the project.
 After which the results of the Pivot tables were used to insert charts and build the dasboard.
 
+----
 # FINDINGS AND RECOMMENDATIONS
 
 
