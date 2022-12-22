@@ -12,7 +12,7 @@ This analysis is part of the 30DaysOfLearning program under the data analysis pa
 5. To determine the cummulative monthly confirmed cases of COVID-19 between 2020 - 2022.
 ----
 # DATA SOURCING:
-
+Data was scraped with excel  from Johns Hopkins Coronavirus Resource Center page on the github link (https://aka.ms/30DLDATLandingPage).
 
 
 ----
@@ -23,7 +23,8 @@ After which the results of the Pivot tables were used to insert charts and build
 
 ----
 # FINDINGS AND RECOMMENDATIONS
-
-
-
-
+1. As at January, 2020 to June, 2022, the total confirmed case of COVID-19 was over 150 billion, with over 2 billion deaths recored at a death rate of 1.73%.
+2. The top 5 countries with COVID-19 cases are the USA, India, Brazil, France and United Kingdom.
+3. The countries with least prevalence of COVID-19 are MS Zaadam, Maeshall Island, Antartica Micronesia and North korea being the last with only 44 cases.
+4. The cummulative yealy cases showed that COVID-19 cases are on the increase in 2022 compared to other years since its inception, although the year had not ended yet.
+5. The cummulative mothly cases reveal that there was a drastic drop in the number of cases in the month of July although we can't tell the reason for this reduction, it was for the better.
